@@ -7,3 +7,5 @@ sudo apt install git -y
 sudo apt install stow -y
 sudo apt install zsh -y
 sudo apt install fzf -y
+sudo apt install python3-pip -y
+sudo apt install pipx -y
